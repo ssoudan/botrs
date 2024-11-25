@@ -54,7 +54,7 @@ pyo3-asyncio = { version = "0.20.0", features = [
     "tokio-runtime",
 ] }
 
-pulldown-cmark-to-cmark = "13"
+pulldown-cmark-to-cmark = "18"
 pulldown-cmark = "0.10"
 
 dotenvy = "0.15.7"
